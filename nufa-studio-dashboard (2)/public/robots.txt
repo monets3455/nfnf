@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin # Example: Disallow admin section from crawlers
+
+Sitemap: /sitemap.xml # Add this line if you have a sitemap
